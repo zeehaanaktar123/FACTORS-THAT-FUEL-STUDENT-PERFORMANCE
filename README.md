@@ -46,9 +46,11 @@ Used `DENSE_RANK()` to rank students based on exam scores.
 
 * <img width="530" height="412" alt="image" src="https://github.com/user-attachments/assets/076644b4-84f9-4e2e-b082-442ddbc7cb54" />
 
-* 
+* <img width="635" height="561" alt="image" src="https://github.com/user-attachments/assets/91bd3a9c-6750-44d1-9528-a3f612f6cb89" />
 
-* [Add your actual finding from the student-ranking analysis.]
+
+* <img width="635" height="561" alt="image" src="https://github.com/user-attachments/assets/79c0d52e-eda3-424f-b9c6-ea2d21dad282" />
+
 
 ```
 
