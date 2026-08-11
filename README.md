@@ -44,8 +44,10 @@ Used `DENSE_RANK()` to rank students based on exam scores.
 
 ## 💡 Key Insights
 
-* [Add your actual finding from the study-hour analysis.]
-* [Add your actual finding from the extracurricular analysis.]
+* <img width="530" height="412" alt="image" src="https://github.com/user-attachments/assets/076644b4-84f9-4e2e-b082-442ddbc7cb54" />
+
+* 
+
 * [Add your actual finding from the student-ranking analysis.]
 
 ```
